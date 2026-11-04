@@ -1,6 +1,8 @@
 # TOP-Homepage
 A responsive homepage for Jan Christopher Buen, built with semantic HTML and CSS for The Odin Project’s Homepage assignment. It introduces my learning journey and showcases six projects with real preview screenshots, source links, and live demos.
 
+Live preview here::  "https://ofosunewton.github.io/TOP-Homepage/"
+
 Design and accessibility
 Desktop: a prominent illustrated introduction beside the About panel, a three-column project grid, and a split contact section.
 Tablet (640–1023px): the illustration overlaps the About panel; text wraps beside and beneath it. Project cards use two columns.
